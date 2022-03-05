@@ -1,6 +1,6 @@
-_[The Realm](/The%20Realm) / Nexus Portals_
+_[The Nexus](/The%20Nexus) / Realm Portals_
 
-# Nexus Realms
+# Realm Portals
 
 There is significant issue with the way realms currently work from the nexus. Each server is given 1-2 portals to a realm, each realm is one of 16 random maps, with 40-50 Heroes of Oryx. There is no distinction between realms aside from name.
 
